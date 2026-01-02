@@ -103,8 +103,6 @@ Puedes ofrecer:
 - Adaptaciones a medida
 - Certificación institucional
 
-Ejemplo de texto:
-
 > "CertUAE está disponible bajo licencia GPL v3 para uso libre. Para uso comercial, institucional o cerrado, se requiere una licencia comercial otorgada por el autor."
 
 ---
@@ -120,7 +118,7 @@ Desarrollador Fullstack & Arquitecto de Software
 
 Para licencias comerciales, soporte o contribuciones:
 
-📧 Email: contacto@tudominio.com
+📧 Email: jhocamolu@outlook.com
 
 ---
 
