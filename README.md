@@ -56,34 +56,6 @@ El proyecto utiliza:
 
 ---
 
-## ▶️ Ejecución del Proyecto
-
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/tu-usuario/CertUAE.git
-```
-
-2. Acceder al directorio del proyecto:
-
-```bash
-cd CertUAE
-```
-
-3. Restaurar dependencias:
-
-```bash
-dotnet restore
-```
-
-4. Ejecutar la aplicación:
-
-```bash
-dotnet run
-```
-
----
-
 ## 🧪 Estado del Proyecto
 
 🚧 **En desarrollo activo**
